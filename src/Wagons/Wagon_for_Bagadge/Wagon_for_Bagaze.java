@@ -2,8 +2,8 @@ package Wagons.Wagon_for_Bagadge;
 
 import java.util.HashMap;
 
-import Wagons.Wagons_for_passedgers.Bagaze;
-import Wagons.Wagons_for_passedgers.Person;
+import Wagons.Wagons_for_passengers.Bagaze;
+import Wagons.Wagons_for_passengers.Person;
 import Wagon.Wagon;
 
 public class Wagon_for_Bagaze extends Wagon {

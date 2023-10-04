@@ -10,7 +10,7 @@ import Wagons.Wagon_for_Gas.Wagon_Gas;
 import Wagons.Wagon_for_explosive.Wagon_for_explosive_goods;
 import Wagons.Wagon_for_liquid_toxic.Wagon_for_liquid_toxic;
 import Wagons.Wagon_restaurant.Wagon_restaurant;
-import Wagons.Wagons_for_passedgers.Wagon_for_passengers;
+import Wagons.Wagons_for_passengers.Wagon_for_passengers;
 import Wagons.Wagons_for_toxic_goods.Wagon_for_toxic_goods;
 
 import java.util.ArrayList;

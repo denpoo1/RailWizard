@@ -1,4 +1,4 @@
-package Wagons.Wagons_for_passedgers;
+package Wagons.Wagons_for_passengers;
 
 import java.util.Arrays;
 import Wagons.Names_of_shipper;

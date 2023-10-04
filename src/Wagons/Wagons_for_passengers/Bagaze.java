@@ -1,4 +1,4 @@
-package Wagons.Wagons_for_passedgers;
+package Wagons.Wagons_for_passengers;
 
 public class Bagaze {
     Bagaze(String type,double ID, double mass_KG) {

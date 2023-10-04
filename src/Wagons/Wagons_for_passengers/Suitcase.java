@@ -1,4 +1,4 @@
-package Wagons.Wagons_for_passedgers;
+package Wagons.Wagons_for_passengers;
 
 class Suitcase extends Bagaze {
     @Override

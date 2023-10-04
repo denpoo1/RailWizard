@@ -1,4 +1,4 @@
-package Wagons.Wagons_for_passedgers;
+package Wagons.Wagons_for_passengers;
 
 import Wagons.Wagon_for_Bagadge.Wagon_for_Bagaze;
 import java.util.Arrays;
